@@ -1,6 +1,6 @@
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F716&vCenter=true&lines=+AZ+Proxy+Scrapper)](https://git.io/typing-svg)
 
-- 🔩 **+/- 60000 hits** | *The proxies are saved in the file named "proxies.txt".*
+- 🔩 **+/- 60000 hits** | *The proxies are saved in the file named "proxies.txt"*
 
 - 🌐 **Languages and Tools**
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
